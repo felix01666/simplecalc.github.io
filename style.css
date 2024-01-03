@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background: skyblue;
+}
+
+.wrap{
+    width: 400px;
+    margin: auto;
+    height: auto;
+    background: #000;
+    padding: 15px;
+}
+input[type=text]{
+    width: 100%;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 22px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+input[type=button]{
+    width: 88px;
+    font-weight: 700;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#del{
+    width: 50%;
+}
+.equal{
+    width: 50%;
+}
